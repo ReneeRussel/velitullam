@@ -1,0 +1,39 @@
+{
+  "name": "velitullam",
+  "version": "1.0.0",
+  "description": "buda.com REST API wrapper using Bluebird promises",
+  "keywords": [
+    "buda",
+    "btc",
+    "clp",
+    "eth",
+    "bch",
+    "bitcoin",
+    "ethereum",
+    "sit",
+    "non",
+    "eos",
+    "api",
+    "officia"
+  ],
+  "author": "LeilaniBrown",
+  "license": "MIT",
+  "dependencies": {
+    "bluebird": "^3.5.0",
+    "request": "^2.81.0",
+    "request-promise": "^4.2.1",
+    "underscore": "1.8.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ReneeRussel/velitullam.git"
+  },
+  "main": "buda.js",
+  "engines": {
+    "node": ">=4"
+  },
+  "homepage": "https://github.com/ReneeRussel/velitullam.git",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
